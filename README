@@ -1,0 +1,14 @@
+osql
+====
+
+osql is an Oracle command-line interface alternative to the stock
+sqlplus shell.
+
+Especially "modern" UNIX conveniences like readline input and dynamic
+output formatting are the main focus. Furthermore, osql is aimed at
+DBAs and provides several shortcuts for common tasks.
+
+Functionality for normal users may be implemented later, but currently
+is not the primary goal. Currently, it’s not even pos- sible to
+logon as user (i.e., without preliminary or SYSDBA authentication).
+
