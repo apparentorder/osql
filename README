@@ -12,3 +12,6 @@ Functionality for normal users may be implemented later, but currently
 is not the primary goal. Currently, it’s not even pos- sible to
 logon as user (i.e., without preliminary or SYSDBA authentication).
 
+osql is inspired by and aims to feel like the "psql" shell from the
+PostgreSQL project.
+
