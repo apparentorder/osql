@@ -1,6 +1,6 @@
 Name:           osql
-Version:        0.1
-Release:        3
+Version:        0.2
+Release:        1
 Summary:        osql, the Oracle DBA shell
 
 Group:          Applications/Databases
